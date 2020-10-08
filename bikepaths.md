@@ -12,6 +12,12 @@
 8 - Vélorue - Bike street  
 9 - Voie partagée Bus-Vélo
 
+```
+seperated = [3,4,5,6]
+shared = [1,2,8,9]
+multiUse = [7]
+```
+
 `feature.properties.TYPE_VOIE2`
 
 0 - Par défaut - Dans le sens de la circulation  
