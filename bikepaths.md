@@ -13,7 +13,7 @@
 9 - Voie partagée Bus-Vélo
 
 ```
-seperated = [3,4,5,6]
+separated = [3,4,5,6]
 shared = [1,2,8,9]
 multiUse = [7]
 ```
